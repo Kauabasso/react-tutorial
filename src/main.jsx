@@ -8,9 +8,9 @@ import AppTarefas from './AppTarefas.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <AppTarefas/>
-   {/* <App />
-    <Paragrafo nome="Rafael"/>
+    {/* <AppTarefas/> */}
+    <App />
+    {/*<Paragrafo nome="Rafael"/>
     <Paragrafo nome="Maria"/>
     <CaixaTexto/>*/}
     
